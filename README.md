@@ -90,3 +90,21 @@ This project is developed for academic and research purposes. Predictions should
 ## Author
 
 Neha Surule - B.Tech / B.E. Information Technology
+
+## Application Screenshots
+
+### Laboratory Technician Dashboard
+
+![Laboratory Technician Dashboard](screenshots/home-lab-technician.png)
+
+### Diabetes Disease Prediction
+
+![Diabetes Prediction](screenshots/diabetes-prediction.png)
+
+### Doctor Dashboard
+
+![Doctor Dashboard](screenshots/doctor-dashboard.png)
+
+### Patient Laboratory Report
+
+![Patient Laboratory Report](screenshots/patient-report.png)
